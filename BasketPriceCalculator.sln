@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasketPriceCalculator", "BasketPriceCalculator\BasketPriceCalculator.csproj", "{EE7D8510-493A-4500-ABAB-19D3A3FBB115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasketPriceCalculatorTest", "BasketPriceCalculatorTest\BasketPriceCalculatorTest.csproj", "{93A98C25-3583-40DF-94AE-FC530A17A5E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE7D8510-493A-4500-ABAB-19D3A3FBB115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7D8510-493A-4500-ABAB-19D3A3FBB115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7D8510-493A-4500-ABAB-19D3A3FBB115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7D8510-493A-4500-ABAB-19D3A3FBB115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93A98C25-3583-40DF-94AE-FC530A17A5E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93A98C25-3583-40DF-94AE-FC530A17A5E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93A98C25-3583-40DF-94AE-FC530A17A5E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93A98C25-3583-40DF-94AE-FC530A17A5E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
